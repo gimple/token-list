@@ -16070,6 +16070,21 @@
       "extensions": {
         "discord": "https://google.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CJR5HtmXzpCD8Ro28zyZyLjz1wtrCsu7bEwC4f8ZjRCD",
+      "symbol": "SLVT",
+      "name": "Solvent Protocol",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJR5HtmXzpCD8Ro28zyZyLjz1wtrCsu7bEwC4f8ZjRCD/logo.png",
+      "tags": [
+        "defi",
+        "goverance"
+      ],
+      "extensions": {
+        "website": "https://www.solventprotocol.com/"
+      }
     }
   ],
   "version": {
