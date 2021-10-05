@@ -16112,6 +16112,21 @@
       "extensions": {
         "website": "https://shakudo.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "CJR5HtmXzpCD8Ro28zyZyLjz1wtrCsu7bEwC4f8ZjRCD",
+      "symbol": "HRSH",
+      "name": "Solvent Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJR5HtmXzpCD8Ro28zyZyLjz1wtrCsu7bEwC4f8ZjRCD/logo.png",
+      "tags": [
+        "defi",
+        "goverance"
+      ],
+      "extensions": {
+        "website": "https://www.solventprotocol.com/"
+      }
     }
   ],
   "version": {
