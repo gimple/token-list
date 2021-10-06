@@ -16137,6 +16137,20 @@
       "logoURI": "https://raw.githubusercontent.com/ncoincrypto/token-list/main/assets/mainnet/AWukJTnvj1rUi9LmxezP7vseCVnESnPrYAsSipxuhUgh/logo.png",
       "tags": [],
       "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
+      "symbol": "FUM",
+      "name": "FUMoney",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz/logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://FUMoney.io/"
+      }
     }
   ],
   "version": {
