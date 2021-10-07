@@ -16151,6 +16151,18 @@
       "extensions": {
         "website": "https://FUMoney.io/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r",
+      "symbol": "PNT",
+      "name": "PHANT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Mattyluke/token-list/00e80ee34326c2ca3606689166f9c952b0b11a74/assets/mainnet/blklogo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {}
     }
   ],
   "version": {
