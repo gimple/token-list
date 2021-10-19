@@ -16173,6 +16173,20 @@
       "logoURI": "https://raw.githubusercontent.com/ncoincrypto/token-list/main/assets/mainnet/AWukJTnvj1rUi9LmxezP7vseCVnESnPrYAsSipxuhUgh/logo.png",
       "tags": [],
       "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "A6XKxTA1PiYjk3KTh9txMGCCc5CaNj56fRKnmpr6pYDN",
+      "symbol": "LECT",
+      "name": "Lecturer Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/hariselmi/token-list/main/assets/mainnet/A6XKxTA1PiYjk3KTh9txMGCCc5CaNj56fRKnmpr6pYDN/logo.png",
+      "tags": [
+        "charity"
+      ],
+      "extensions": {
+        "website": "https://sol.lecturertoken.com"
+      }
     }
   ],
   "version": {
