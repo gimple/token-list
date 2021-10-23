@@ -16187,6 +16187,16 @@
       "extensions": {
         "website": "https://sol.lecturertoken.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "ZXS6KKnXeT9xAc3qt2wpwmfKT5p3UspFVKCPP8bVs2Z",
+      "symbol": "TMI",
+      "name": "TUMI",
+      "decimals": 4,
+      "logoURI": "https://cointumi.com/token.png",
+      "tags": [],
+      "extensions": {}
     }
   ],
   "version": {
