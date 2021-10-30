@@ -16211,6 +16211,21 @@
         "website": "https://biconomy.com",
         "coingeckoId": "biconomy-exchange-token"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5WAAzwYMoSK4GaLCVrf4t79fcsc1hu3TrhBxvaPCbKWt",
+      "symbol": "TKB",
+      "name": "TKB Coin",
+      "decimals": 9,
+      "logoURI": "",
+      "tags": [
+        "TKB",
+        "TKB Coin",
+        "USDT",
+        "USDC"
+      ],
+      "extensions": {}
     }
   ],
   "version": {
