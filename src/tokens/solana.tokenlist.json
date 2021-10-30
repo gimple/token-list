@@ -16226,6 +16226,21 @@
         "USDC"
       ],
       "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "PEGDAG5KpGAw66WBeGJcwub17eAyb9A4iFhBADsDJjF",
+      "symbol": "SOLM",
+      "name": "Solanim",
+      "decimals": 8,
+      "logoURI": "https://solanim.com/logo.png",
+      "tags": [
+        "defi",
+        "goverance"
+      ],
+      "extensions": {
+        "website": "https://solanim.com/"
+      }
     }
   ],
   "version": {
